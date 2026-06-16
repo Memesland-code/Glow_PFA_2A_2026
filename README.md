@@ -17,4 +17,4 @@
 - [GIRELLI Bartholomé](https://www.linkedin.com/in/bartholome-girelli-071076333/) - Technical Art / VFX
 - [MAUGY Clotilde](https://www.linkedin.com/in/clotilde-maugy-5351a6333/) - Environment Art / Level Art
 - [ROUMINIERAS Enzo](https://www.linkedin.com/in/enzo-rouminieras-b2a167333/) - Environment Art / Level Art
-- [TALLE Essoham](https://www.linkedin.com/in/essoham-talle-290128360/) - Technical Art / VFX
+- [TALLE Essoham](https://www.linkedin.com/in/essoham-talle-290128360/) - Level Art
