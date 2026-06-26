@@ -18,3 +18,11 @@
 - [MAUGY Clotilde](https://www.linkedin.com/in/clotilde-maugy-5351a6333/) - Environment Art / Level Art
 - [ROUMINIERAS Enzo](https://www.linkedin.com/in/enzo-rouminieras-b2a167333/) - Environment Art / Level Art
 - [TALLE Essoham](https://www.linkedin.com/in/essoham-talle-290128360/) - Level Art
+<br>
+<br>
+# External Assets Credits
+- Main Menu music: "Clear Mind" by Shadicx245
+- In game music: "Pinpoint" by Hydraa
+- Boss music: "Escape" by Ryini Beats
+- SFX: Pixabay
+- Animations: Mixamo & Paragon (Fab)
