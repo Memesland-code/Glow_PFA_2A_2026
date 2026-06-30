@@ -2,11 +2,11 @@
 
 # Team Credits:
 ## Game Designers
-- [ARMANT Lylian](https://www.linkedin.com/in/lylian-armant-8b217926a/) - Level Design
+- [ARMANT Lylian](https://www.linkedin.com/in/lylian-armant-8b217926a/) - Creative Direction / Level Design / Animation (Tech)
 - [CHAPON Kylian](https://www.linkedin.com/in/kylian-chapon-903924251/) - Technical Design / Programming
 - [Merle Thibault](https://www.linkedin.com/in/thibault-merle-946187311/) - Production
-- [POTTIER Nolan](https://www.linkedin.com/in/nolan-pottier-116756410/) - Level Design
-- [ROSSIGNOL Tom](https://www.linkedin.com/in/tom-rossignol-63148a3b8/) - System Design
+- [POTTIER Nolan](https://www.linkedin.com/in/nolan-pottier-116756410/) - Level Design / Sound Design
+- [ROSSIGNOL Tom](https://www.linkedin.com/in/tom-rossignol-63148a3b8/) - System Design / Narrative Design
 
 ## Game Artists
 - [AZZI Lou](https://www.linkedin.com/in/lou-azzi-6a3076333/) - Environment / Level Art
