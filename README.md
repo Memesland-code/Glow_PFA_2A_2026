@@ -11,9 +11,9 @@
 ## Game Artists
 - [AZZI Lou](https://www.linkedin.com/in/lou-azzi-6a3076333/) - Environment / Level Art
 - [BALLET Hugo](https://www.linkedin.com/in/hugo-ballet-038899370/) - Concept Art / UI Art
-- [BERGER Alexandre](https://www.linkedin.com/in/alexandre-berger-662355358/) - Concept Art
+- [BERGER Alexandre](https://www.linkedin.com/in/alexandre-berger-662355358/) - Concept Art / Character Art
 - [BILLOT-BIOTA Méline](https://www.linkedin.com/in/m%C3%A9line-billot-biota-85a3b02b6/) - Technical Art / VFX
-- [CHAUTARD Camille](https://www.linkedin.com/in/camille-chautard-81225a268/) - Character Art
+- [CHAUTARD Camille](https://www.linkedin.com/in/camille-chautard-81225a268/) - Character Art / Animation (Rigging)
 - [GIRELLI Bartholomé](https://www.linkedin.com/in/bartholome-girelli-071076333/) - Technical Art / VFX
 - [MAUGY Clotilde](https://www.linkedin.com/in/clotilde-maugy-5351a6333/) - Environment Art / Props Art
 - [ROUMINIERAS Enzo](https://www.linkedin.com/in/enzo-rouminieras-b2a167333/) - Environment Art / Props Art
